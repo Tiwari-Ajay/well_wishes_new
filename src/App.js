@@ -90,7 +90,7 @@ function App() {
       sayari: ["💕 तुम तो कोमल हो, मासूम हो,","किसी प्यारे से टेडी जैसी...","💕 मेरी शाम को रंगीन कर देती है,","तुम्हारी हंसी, किसी नूर जैसी।"],
       wishEmojis: ['🧸', '💕'],
       videoPath: '/Videos/fourth.mp4',
-      songPath: '/Songs/second.mp3',
+      songPath: '/Songs/4th.mp3',
       customMessage: "Just like the teddy, you bring comfort and joy into my life. I'm lucky to have you!",
       voiceMessage: 'Happy Teddy Day! This teddy reminds me of the warmth and love you bring into my life.'
     },
@@ -105,7 +105,7 @@ function App() {
       sayari: ["🤝 बात मुमकिन हो तो इक वादा निभाना होगा,","मुझको हर सांस में, बस तुमको ही बसाना होगा।","🤝 आओ कसम खाएं, ना होंगे कभी जुदा,","यह इश्क का रिश्ता, हमें उम्र भर निभाना होगा।"],
       wishEmojis: ['🤝', '💖'],
       videoPath: '/Videos/fifth.mp4',
-      songPath: '/Songs/second.mp3',
+      songPath: '/Songs/5th_day.mpeg',
       customMessage: 'I Promise Forever!',
       voiceMessage: 'Happy Promise Day! I promise to always be there for you, to love you unconditionally.'
     },
@@ -120,7 +120,7 @@ function App() {
       sayari: ["🤗 तुझे जो याद करता हूँ, मैं दुनिया भूल जाता हूँ,","तुझे जो गले लगाता हूँ, मैं खुद को भूल जाता हूँ।","🤗 वो मोहब्बत भी तुम्हारी थी, नफरत भी तुम्हारी थी,","वो हक जो जताते थे, वो भी तुम्हारा था|"],
       wishEmojis: ['🤗', '💞'],
       videoPath: '/Videos/fifth.mp4',
-      songPath: '/Songs/second.mp3',
+      songPath: '/Songs/6th_day.mpeg',
       customMessage: "You're the peanut butter to my hug sandwich!",
       voiceMessage: 'Happy Hug Day! Your hugs are my safe haven, my comfort zone, my happy place.'
     },
@@ -135,7 +135,7 @@ function App() {
       sayari: ["💗 मेरी मोहब्बत ही देखनी है तो गले लगाकर देखो,","दिल में धड़कता जो हिस्सा है, उसे चूम कर देखो।","💗 वो जो दूरियों का ख़ौफ़ है, वो मिट जाएगा,","मेरी आँखों में अपनी रूह को उतर कर देखो।"],
       wishEmojis: ['💋', '💗'],
       videoPath: '/Videos/sixth.mp4',
-      songPath: '/Songs/second.mp3',
+      songPath: '/Songs/4th_day.mpeg',
       customMessage: 'A kiss is a lovely trick designed by nature to stop speeches when words become superfluous. Happy Kiss Day, Beautiful!',
       voiceMessage: 'Happy Kiss Day! Your kisses are like magic, they make my heart skip a beat.'
     },
@@ -150,7 +150,7 @@ function App() {
       sayari: ["👨‍❤️‍👨 आज हर ख़ामोशी को मिटा देने का मन है,","जो भी छिपा रखा है मन में लूटा देने का मन है।","👨‍❤️‍👨 क्यूं इतने लफजो में मुझे चुनते हो,","इतनी ईंटें लगती है क्या एक खयाल दफनाने में?"],
       wishEmojis: ['❤️', '🌹'],
       videoPath: '/Videos/seventh.mp4',
-      songPath: '/Songs/second.mp3',
+      songPath: '/Songs/7th_day.mpeg',
       customMessage: 'You are my everything!',
       voiceMessage: 'Happy Valentines Day! You are my everything, my best friend, my soulmate, my forever love.'
     }
